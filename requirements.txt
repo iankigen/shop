@@ -2,7 +2,7 @@ appnope==0.1.0
 backcall==0.1.0
 certifi==2018.11.29
 decorator==4.3.2
-Django==2.1.5
+django>=2.1.6
 django-filter==2.1.0
 djangorestframework==3.9.1
 djangorestframework-jwt==1.11.0
